@@ -1,15 +1,15 @@
 <h1 align="center"> Hi, I am Harshit  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <h2> About Me </h2>
+- I'm currently working as Engineer II at Samsung R&D Institute, Delhi.
 
-- 🔭 I’m currently pursuing Masters from IIIT Hyderabad 
 - 📫 How to reach me **hkashyap0809@gmail.com**
 
 - 🌱 I’m currently learning to build systems (software, database and distributed systems)
 
-- 👯 I’m looking to collaborate on full stack projects
+- 👯 I’m open to collaborate on full stack projects ( Angular 17 + JAVA Spring Boot )
 
-- 💬 Talk to me about JAVA, Spring Framework, Spring Boot, Software Engineering, Software Architecture Database Systems,Distributed Systems
+- 💬 Talk to me about Software Engineering, Software Architecture, Database Systems, Distributed Systems, JAVA, Spring Boot, AWS.
 
 <!-- - 📄 Checkout my [resume] -->
 
