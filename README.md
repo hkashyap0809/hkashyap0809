@@ -1,15 +1,16 @@
 <h1 align="center"> Hi, I am Harshit  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <h2> About Me </h2>
+
 - I'm currently working as Engineer II at Samsung R&D Institute, Delhi.
 
 - 📫 How to reach me **hkashyap0809@gmail.com**
 
 - 🌱 I’m currently learning to build systems (software, database and distributed systems)
 
-- 👯 I’m open to collaborate on full stack projects ( Angular 17 + JAVA Spring Boot )
+- 👯 I’m open to collaborate on full stack projects
 
-- 💬 Talk to me about Software Engineering, Software Architecture, Database Systems, Distributed Systems, JAVA, Spring Boot, AWS.
+- 💬 Talk to me about Software Engineering & Architecture, Database Systems, Distributed Systems, JAVA, Spring Boot, AWS.
 
 <!-- - 📄 Checkout my [resume] -->
 
@@ -42,7 +43,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hkashyap0809&" alt="hkashyap0809" /></p>
-
-<h2> Leetcode Stats </h2>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/hkashyap0809?theme=light&font=Abhaya%20Libre&ext=contest)
